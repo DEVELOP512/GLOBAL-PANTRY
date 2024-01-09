@@ -1,0 +1,10 @@
+1)Chef Knife
+2)Damascus Steel Knife
+3)Meat Cleaver
+4)Mezzaluna
+5)Slicing knife
+6)Bread knife
+7)Boning knife
+8)Utility knife
+9)Paring knife
+10)Knife Sharpener
